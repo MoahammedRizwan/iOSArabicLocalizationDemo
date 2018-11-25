@@ -1,0 +1,21 @@
+
+/* Class = "UINavigationItem"; title = "First Controller"; ObjectID = "Ftr-fK-rCb"; */
+"Ftr-fK-rCb.title" = "المراقب الأول";
+
+/* Class = "UILabel"; text = "Van"; ObjectID = "Gzf-kw-dSq"; */
+"Gzf-kw-dSq.text" = "سيارة نقل";
+
+/* Class = "UILabel"; text = "Vehicle Types"; ObjectID = "K3r-T7-dzv"; */
+"K3r-T7-dzv.text" = "أنواع المركبات";
+
+/* Class = "UILabel"; text = "Bike"; ObjectID = "hjq-Q0-cZG"; */
+"hjq-Q0-cZG.text" = "دراجة هوائية";
+
+/* Class = "UILabel"; text = "Second Controller"; ObjectID = "oBv-Fw-L2m"; */
+"oBv-Fw-L2m.text" = "المراقب الثاني";
+
+/* Class = "UIButton"; normalTitle = "Next Controller"; ObjectID = "zdB-G3-x80"; */
+"zdB-G3-x80.normalTitle" = "تحكم المقبل";
+
+/* Class = "UIButton"; normalTitle = "Switch Language"; ObjectID = "l0w-Lt-wQT"; */
+"l0w-Lt-wQT.normalTitle" = "تبديل اللغة";

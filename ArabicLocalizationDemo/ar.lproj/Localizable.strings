@@ -1,0 +1,11 @@
+/* 
+  Localizable.strings
+  ArabicLocalizationDemo
+
+  Created by Rizwan on 11/24/18.
+  Copyright © 2018 MakanEats. All rights reserved.
+*/
+"Hi" = "مرحبا";
+"Are u sure want to switch language" = "هل تريد بالتأكيد تبديل اللغة";
+"Second Controller" = "المراقب الثاني";
+"Ok" = "حسنا";
